@@ -1,4 +1,5 @@
 Screens/Info: https://www.desktopcode.com/template15.html
+
 Admin Panel can be found at: www.desktopcode.com
 
 This is template number 15. Other templates can be found on the website.
