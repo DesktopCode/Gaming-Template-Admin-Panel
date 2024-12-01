@@ -1,8 +1,9 @@
+Screens/Info: https://www.desktopcode.com/template15.html
 Admin Panel can be found at: www.desktopcode.com
 
 This is template number 15. Other templates can be found on the website.
-Screens/Info: https://www.desktopcode.com/template15.html
 
+__
 Home Page: The Home pages shows recent results and fixtures, aswell as recently posted news.
 News Posts: Post news or daily topics with an added comment system..
 Team: Shows team(s) with the members of each team.
