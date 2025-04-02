@@ -1,4 +1,4 @@
-Screens/Info: https://www.desktopcode.com/template15.html
+Info: https://www.desktopcode.com
 
 Admin Panel can be found at: www.desktopcode.com
 
